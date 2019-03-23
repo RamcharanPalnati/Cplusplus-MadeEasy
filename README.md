@@ -1,1 +1,1 @@
-# C-MadeEasy
+# C++-MadeEasy
