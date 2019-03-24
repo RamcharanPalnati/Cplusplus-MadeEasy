@@ -6,7 +6,11 @@ int main()
 { 
     cout << "Size of char : " << sizeof(char)  
       << " byte" << endl; 
+      cout << "Size of char* : " << sizeof(char*)  
+      << " byte" << endl; 
     cout << "Size of int : " << sizeof(int) 
+      << " bytes" << endl;
+      cout << "Size of int* : " << sizeof(int*) 
       << " bytes" << endl; 
     cout << "Size of short int : " << sizeof(short int)  
       << " bytes" << endl; 
